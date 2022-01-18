@@ -1,0 +1,4 @@
+
+*.cfg
+data/reddit_extract.pkl
+.ipynb_checkpoints/reddit_bitcoin-checkpoint.ipynb
