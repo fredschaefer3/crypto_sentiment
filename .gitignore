@@ -2,3 +2,6 @@
 *.cfg
 data/reddit_extract.pkl
 .ipynb_checkpoints/reddit_bitcoin-checkpoint.ipynb
+data/comments_scored.csv
+img/wordcloud_neg.png
+img/wordcloud_pos.png
